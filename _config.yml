@@ -193,14 +193,14 @@ exclude:
   - _includes/selected_papers.liquid
   - _includes/citation.liquid
   - _layouts/bib.liquid
-  - _projects/2_projects.md
-  - _projects/3_projects.md
-  - _projects/4_projects.md
-  - _projects/5_projects.md
-  - _projects/6_projects.md
-  - _projects/7_projects.md
-  - _projects/8_projects.md
-  - _projects/9_projects.md
+  - _projects/2_project.md
+  - _projects/3_project.md
+  - _projects/4_project.md
+  - _projects/5_project.md
+  - _projects/6_project.md
+  - _projects/7_project.md
+  - _projects/8_project.md
+  - _projects/9_project.md
   - _plugins/google-scholar-citations.rb
   - _plugins/hide-custom-bibtex.rb
   - _plugins/inspirehep-citations.rb
