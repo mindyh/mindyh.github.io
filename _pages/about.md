@@ -22,11 +22,13 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi there! I'm Mindy. Professionally, I'm an engineer turned product manager with a background in Computer Vision/AI/Robotics and a passion for social impact technology. Privately, I just like to make things. Anything from home automation, to furniture, to paintings, art, and design is fair game to me.
+
+If you are looking for an overarching summary of my professional life, please check out my [LinkedIn](https://www.linkedin.com/in/mindyhng). If you'd here to peek at the human behind the resume, welcome to my little corner of the internet! You can [check out my projects](/projects), or [read the latest thoughts on my mind](/blog). Enjoy your stay, and I hope you learn something  while you're here. 👋
 
 
