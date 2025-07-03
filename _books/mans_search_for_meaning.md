@@ -17,7 +17,7 @@ status: Finished
 
 > Life is not primarily a quest for pleasure, as Freud believed, or a quest for power, as Alfred Adler taught, but a quest for meaning. The greatest task for any person is to find meaning in his or her life.
 >
-> Viktor Frankl- Man's Search for Meaning
+> ― Viktor E. Frankl, Man's Search for Meaning
 
 I read this book when we were squarely in the middle of COVID lock-down, when in my abundance of free time I decided to pick a book off the bestsellers list. Viktor Frankl's Man's Search for Meaning was trending and for good reason — it’s incredible how many parallels there were between the experience of prisoners in a concentration camp and my _much_ more comfortable experience in quarantine.
 
