@@ -173,6 +173,7 @@ kramdown:
 include: ["_pages", "_scripts"]
 exclude:
   - bin/
+  - _books/the_godfather.md
   - CONTRIBUTING.md
   - CUSTOMIZE.md
   - Dockerfile
