@@ -1,0 +1,20 @@
+---
+layout: book-review
+title: Blink
+author: Malcolm Gladwell
+# cover: assets/img/book_covers/richgirlnationcover.jpg
+olid: OL23273215M
+# isbn: 978-0-593-71886-5 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
+categories: nonfiction audiobook
+tags: top-100
+buy_link: https://bookshop.org/p/books/blink-the-power-of-thinking-without-thinking-malcolm-gladwell/108638?ean=9780316010665&next=t
+started: 2022-07-20
+finished: 2022-08-03
+stars: 3
+# goodreads_review: 6318556633
+status: Abandoned
+---
+
+orem ipsum dolor sit amet, consectetur adipiscing elit. Cras sollicitudin eros sit amet ante aliquet, sit amet vulputate lectus mattis. Aenean ullamcorper pretium nunc, sed egestas lorem elementum id. Nulla id mi id neque ultrices egestas ut in urna. Sed ac ultricies nunc. Nam convallis placerat urna id egestas. Nulla porta, est interdum vestibulum venenatis, lorem odio laoreet sapien, in pulvinar tellus eros a dolor. Vivamus sapien justo, ullamcorper a mi eget, scelerisque euismod nunc. In augue augue, ultrices a ornare non, tincidunt quis justo. Donec sit amet consectetur eros. Nullam neque leo, tincidunt id ipsum ac, volutpat lobortis mi. Phasellus consequat ultricies arcu, eu semper ligula ultrices eget. Ut in fringilla elit, ac tincidunt nisi.
+
+Nunc commodo elit nec turpis feugiat consectetur. Nullam in nisi egestas, fermentum ligula hendrerit, euismod enim. Nulla eu hendrerit eros. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et ve

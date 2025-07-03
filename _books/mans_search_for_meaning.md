@@ -21,9 +21,9 @@ status: Finished
 
 I read this book when we were squarely in the middle of COVID lock-down, when in my abundance of free time I decided to pick a book off the bestsellers list. Viktor Frankl's Man's Search for Meaning was trending and for good reason — it’s incredible how many parallels there were between the experience of prisoners in a concentration camp and my _much_ more comfortable experience in quarantine.
 
-Relevant to COVID, Frankl wrote of the "provisional existence of unknown limit" – another way of saying there was to know how long the imprisonment would last. The uncertainty was a major source of psychological distress, and warped their sense of time such each day felt impossibly long, yet months would fly by. That exact experience felt all to familiar to my time in quarantine, and it was a strange but unexpectedly comforting connection to make. To know that this had happened to others, that it is normal to feel this way in this situation, and that there were words to describe it.
+Relevant to COVID, Frankl wrote of the "provisional existence of unknown limit" – another way of saying there was to know how long the imprisonment would last. The uncertainty was a major source of psychological distress, and warped their sense of time such each day felt impossibly long, yet months would fly by. That exact experience felt all to familiar to my time in quarantine, and it was a strange but unexpectedly comforting connection to make. It was absolutely normal to see time bend willy nilly in the face of such routine, monotonous uncertainty.
 
-But what truly resonated with me was the concept of *logotherapy*. In a single word, Frankl gave me a name for a vague idea I'd been striving to live by. I immediately followed up with more research on the topic, and this is what I found:
+But what truly resonated with me was the concept of **logotherapy**. In a single word, Frankl gave me a name for a vague idea I'd been striving to live by. I immediately followed up with more research on the topic, and this is what I found:
 
 Logotherapy has [3 pillars](https://www.viktorfranklinstitute.org/about-logotherapy/):
 
