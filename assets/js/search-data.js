@@ -23,7 +23,12 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/projects/";
           },
-        },{id: "books-rich-girl-nation",
+        },{id: "books-man-39-s-search-for-meaning",
+          title: 'Man&amp;#39;s Search for Meaning',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/mans_search_for_meaning/";
+            },},{id: "books-rich-girl-nation",
           title: 'Rich Girl Nation',
           description: "",
           section: "Books",handler: () => {
