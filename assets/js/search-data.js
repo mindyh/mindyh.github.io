@@ -23,16 +23,31 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "books-man-39-s-search-for-meaning",
+        },{id: "books-blink",
+          title: 'Blink',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/blink/";
+            },},{id: "books-man-39-s-search-for-meaning",
           title: 'Man&amp;#39;s Search for Meaning',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/mans_search_for_meaning/";
+            },},{id: "books-outliers",
+          title: 'Outliers',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/outliers/";
             },},{id: "books-rich-girl-nation",
           title: 'Rich Girl Nation',
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/rich_girl_nation/";
+            },},{id: "books-thinking-fast-and-slow",
+          title: 'Thinking, Fast and Slow',
+          description: "",
+          section: "Books",handler: () => {
+              window.location.href = "/books/thinking_fast_and_slow/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
