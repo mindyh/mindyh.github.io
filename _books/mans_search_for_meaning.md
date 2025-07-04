@@ -7,7 +7,7 @@ olid: OL19392027M
 # isbn: 978-0-593-71886-5 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: nonfiction autobiography
 tags: top-100
-buy_link: https://bookshop.org/p/books/man-s-search-for-meaning-viktor-e-frankl/8996943?ean=9780807014271&next=t
+buy_link: https://bookshop.org/a/115097/9780807014271
 started: 2021-02-02
 finished: 2021-03-15
 stars: 5

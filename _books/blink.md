@@ -7,7 +7,7 @@ olid: OL23273215M
 # isbn: 978-0-593-71886-5 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: nonfiction audiobook
 tags: top-100
-buy_link: https://bookshop.org/p/books/blink-the-power-of-thinking-without-thinking-malcolm-gladwell/108638?ean=9780316010665&next=t
+buy_link: https://bookshop.org/a/115097/9780316010665
 started: 2022-07-20
 finished: 2022-08-03
 stars: 3

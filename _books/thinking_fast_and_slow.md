@@ -7,7 +7,7 @@ olid: OL28227306M
 # isbn: 978-0-593-71886-5 # use ISBN to fetch cover (if no `olid` is provided, dashes are optional)
 categories: nonfiction audiobook
 tags: top-100
-buy_link: https://bookshop.org/p/books/thinking-fast-and-slow-daniel-kahneman/943943?ean=9780374533557&next=t
+buy_link: https://bookshop.org/a/115097/9780374533557
 started: 2022-05-02
 finished: 2022-06-15
 stars: 4
