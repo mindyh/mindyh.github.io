@@ -327,17 +327,6 @@ ninja.data = [{
             window.location.href = "/blog/2015/code/";
           
         },
-      },{id: "post-ta-ing-cs107",
-        
-          title: "TA-ing CS107",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2015/ta-ing-cs107/";
-          
-        },
       },{id: "post-a-post-with-images",
         
           title: "a post with images",
