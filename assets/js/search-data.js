@@ -82,6 +82,11 @@ ninja.data = [{
           description: "A Botcoin Bonanza",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2014-03-22-me210/";
+            },},{id: "projects-cs224-experimental-robotics",
+          title: 'CS224: Experimental Robotics',
+          description: "TetrisBot",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2014-09-18-tetrisbot/";
             },},{
         id: 'social-email',
         title: 'email',
