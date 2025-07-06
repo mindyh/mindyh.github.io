@@ -2,8 +2,11 @@
 layout: page
 title: TetrisBot
 description: "CS224: Experimental Robotics"
+title: TetrisBot
+description: "CS224: Experimental Robotics"
 date: 2014-09-18
 category: school
+img: assets/img/tetrisbot/pickup1.jpg
 img: assets/img/tetrisbot/pickup1.jpg
 importance: 3
 giscus_comments: true
@@ -19,21 +22,40 @@ This past quarter, I took a class called Experimental Robotics and finally got h
 
 You can see all of our code [on GitHub.](https://github.com/sgibbs409/tetrisbot)
 
-The following is copy pasted from the final report of the project.
+The writing below is copy-pasted from the final report of the project.
 
 <!-- Gallery -->
 <div class="spotlight-group">
     <a class="spotlight">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_pickup3.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy1.jpg" %}
     </a>
     <a class="spotlight">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tblock.jpg" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pickup1.jpg" %}
     </a>
     <a class="spotlight">
-        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pickup2.jpg" %}
+    </a>
+    <a class="spotlight">
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_pickup3.jpg" %}
+    </a>
+    <a class="spotlight">
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/coding.jpg" %}
+    </a>
+    <a class="spotlight">
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/endeffector2.jpg" %}
+    </a>
+    <a class="spotlight">
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/lab.jpg" %}
+    </a>
+    <a class="spotlight">
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tblock.jpg" %}
+    </a>
+    <a class="spotlight">
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tetrisbot.jpg" %}
     </a>
 </div>
 
+---
 
 ## Abstract
 For our project, we built Tetris. Just as art imitates life and life imitates art, the toy blocks of our youths beget the classic tile puzzle video game, and now thanks to the PUMA arm you can play Tetris with real life blocks: picked up, moved around, and deposited on a physical game board.
@@ -41,19 +63,19 @@ For our project, we built Tetris. Just as art imitates life and life imitates ar
 ## Members
 <div class="row mt-3">
 	<div class="col-md-3 column">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy_robot.jpg" title="Mindy Huang" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy_robot.jpg" title="Mindy Huang" %}
 		<div class="caption">
             Mindy Huang
         </div>
 	</div>
 	<div class="col-md-3 column">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/spencer.jpg" title="Spencer Gibbs" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/spencer.jpg" title="Spencer Gibbs" %}
         <div class="caption">
             Spencer Gibbs
         </div>
 	</div>
 	<div class="col-md-3 column">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/ralph.jpg" title="Ralph Furmaniak" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/ralph.jpg" title="Ralph Furmaniak" %}
         <div class="caption">
             Ralph Furmaniak
         </div>
@@ -147,7 +169,7 @@ Another difficulty we ran into was that the coupling between the joints did not 
 ## Placing blocks
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pane.jpg" title="acrylic pane gameboard" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pane.jpg" title="acrylic pane gameboard" %}
     </div>
 </div>
 <div class="caption">
