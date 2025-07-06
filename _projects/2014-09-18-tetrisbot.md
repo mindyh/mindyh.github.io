@@ -82,7 +82,7 @@ The next thing we did was to calculate our feasible workspace. The Tetris gamebo
 After getting all the calibration down, we calculated the corresponding task space coordinates and quaternions for each grid cell and rotation.
 
 ## End-effector
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/endeffector.jpeg" title="electromagnet end effector" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -96,7 +96,7 @@ Our end-effector is an electromagnet, controlled by wireless radio receiver. We 
 ## Tetrominos
 A tetromino is a block in the Tetris game (for example, a line block or a square block). As our project is real-life tetris, we need to build real-life tetrominos. After some discussion, we decided on making them out of acrylic. We lasercut them, and the original plan was to assemble them into 3D blocks.
 
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tetrimino_plan.png" title="tetromino plan" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -122,7 +122,7 @@ We used a python script to keep track of game play. The script runs a server, wh
 <iframe width="420" height="315" src="//www.youtube.com/embed/mNpx3U3m-80" frameborder="0" allowfullscreen></iframe>
 
 ## Picking up Blocks
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pickup1.jpg" title="calibration for pickup" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -143,7 +143,7 @@ One complication was that we didn't want the robot to break itself when pressing
 Another difficulty we ran into was that the coupling between the joints did not allow the robot to move downwards in a straight line to pick up the block. Instead, it would veer off, sometimes missing the block completely, and other times hitting a singularity. We prevented the skew by having the robot start very close to the block, only an inch above. And after some testing, we found a small workspace where the robot could safely move that one inch down without going into a singularity.
 
 ## Placing blocks
-<div class="row">
+<div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pane.jpg" title="acrylic pane gameboard" class="img-fluid rounded z-depth-1" %}
     </div>
