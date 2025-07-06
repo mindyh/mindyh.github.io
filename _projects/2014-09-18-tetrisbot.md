@@ -1,10 +1,10 @@
 ---
 layout: page
-title: "CS224: Experimental Robotics"
-description: TetrisBot
+title: TetrisBot
+description: "CS224: Experimental Robotics"
 date: 2014-09-18
 category: school
-img: img/assets/tetrisbot/pickup1.jpg
+img: assets/img/tetrisbot/pickup1.jpg
 importance: 3
 giscus_comments: true
 toc:
@@ -24,10 +24,10 @@ The following is copy pasted from the final report of the project.
 <!-- Gallery -->
 <div class="spotlight-group">
     <a class="spotlight">
-        <img src="assets/img/tetrisbot/block_pickup3.jpg" />
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_pickup3.jpg" class="img-fluid rounded z-depth-1" %}
     </a>
     <a class="spotlight">
-        <img src="assets/img/tetrisbot/tblock.jpg" />
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tblock.jpg" class="img-fluid rounded z-depth-1" %}
     </a>
     <a class="spotlight">
         <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
