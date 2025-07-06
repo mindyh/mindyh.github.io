@@ -3,7 +3,7 @@ layout: page
 title: "The Wandering Poet"
 date: 2025-07-01
 description: "Translating the song 诗人的旅途"
-img:
+img: assets/img/wandering_poet/poet.png
 importance: 4
 category: fun
 giscus_comments: true
