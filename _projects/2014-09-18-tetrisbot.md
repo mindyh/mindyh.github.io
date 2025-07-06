@@ -2,11 +2,8 @@
 layout: page
 title: TetrisBot
 description: "CS224: Experimental Robotics"
-title: TetrisBot
-description: "CS224: Experimental Robotics"
 date: 2014-09-18
 category: school
-img: assets/img/tetrisbot/pickup1.jpg
 img: assets/img/tetrisbot/pickup1.jpg
 importance: 3
 giscus_comments: true
@@ -25,34 +22,33 @@ You can see all of our code [on GitHub.](https://github.com/sgibbs409/tetrisbot)
 The writing below is copy-pasted from the final report of the project.
 
 <!-- Gallery -->
-<div class="spotlight-group">
-    <a class="spotlight">
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy1.jpg" %}
-    </a>
-    <a class="spotlight">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pickup1.jpg" %}
-    </a>
-    <a class="spotlight">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pickup2.jpg" %}
-    </a>
-    <a class="spotlight">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_pickup3.jpg" %}
-    </a>
-    <a class="spotlight">
+    </div>
+</div>
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/coding.jpg" %}
-    </a>
-    <a class="spotlight">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/endeffector2.jpg" %}
-    </a>
-    <a class="spotlight">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/lab.jpg" %}
-    </a>
-    <a class="spotlight">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tblock.jpg" %}
-    </a>
-    <a class="spotlight">
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tetrisbot.jpg" %}
-    </a>
+    </div>
 </div>
 
 ---
