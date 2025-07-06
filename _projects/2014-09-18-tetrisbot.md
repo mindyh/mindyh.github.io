@@ -3,8 +3,9 @@ layout: page
 title: "CS224: Experimental Robotics"
 description: TetrisBot
 date: 2014-09-18
-categories: school
+category: school
 img:
+importance: 3
 giscus_comments: true
 ---
 
