@@ -87,6 +87,11 @@ ninja.data = [{
           description: "CS224: Experimental Robotics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2014-09-18-tetrisbot/";
+            },},{id: "projects-the-wandering-poet",
+          title: 'The Wandering Poet',
+          description: "Translating the song 诗人的旅途",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2025-07-01-wandering-poet%20copy/";
             },},{
         id: 'social-email',
         title: 'email',
