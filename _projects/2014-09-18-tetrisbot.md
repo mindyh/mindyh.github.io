@@ -9,6 +9,12 @@ importance: 3
 giscus_comments: true
 ---
 
+This past quarter, I took a class called Experimental Robotics and finally got hands on with an industrial robot. I&#8217;d learned control theory beforehand in the pre-requisite class, but working with an actual robot definitely solidified my understanding of the topic.
+
+You can see all of our code [on GitHub.](https://github.com/sgibbs409/tetrisbot)
+
+The following is copy pasted from the final report of the project.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tetris_screencap.png" title="screencap of a tetris game" class="img-fluid rounded z-depth-1" %}
