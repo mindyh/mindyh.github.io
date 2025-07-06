@@ -4,10 +4,14 @@ title: "CS224: Experimental Robotics"
 description: TetrisBot
 date: 2014-09-18
 category: school
-img:
+img: img/assets/tetrisbot/pickup1.jpg
 importance: 3
 giscus_comments: true
+toc:
+  sidebar: left
 ---
+
+## Intro
 
 This past quarter, I took a class called Experimental Robotics and finally got hands on with an industrial robot. I&#8217;d learned control theory beforehand in the pre-requisite class, but working with an actual robot definitely solidified my understanding of the topic.
 
@@ -15,16 +19,17 @@ You can see all of our code [on GitHub.](https://github.com/sgibbs409/tetrisbot)
 
 The following is copy pasted from the final report of the project.
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tetris_screencap.png" title="screencap of a tetris game" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-		{% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_pickup3.jpg" title="robot picking up a block" class="img-fluid rounded z-depth-1" %}
-	</div>
-    <div class="col-sm mt-3 mt-md-0">
-		{% include figure.liquid loading="eager" path="assets/img/tetrisbot/tblock.jpg" title="T-block" class="img-fluid rounded z-depth-1" %}
-    </div>
+<!-- Gallery -->
+<div class="spotlight-group">
+    <a class="spotlight">
+        <img src="assets/img/tetrisbot/block_pickup3.jpg" />
+    </a>
+    <a class="spotlight">
+        <img src="assets/img/tetrisbot/tblock.jpg" />
+    </a>
+    <a class="spotlight">
+        <img src="https://cdn.photoswipe.com/photoswipe-demo-images/photos/3/img-200.jpg" />
+    </a>
 </div>
 
 
@@ -36,25 +41,19 @@ For our project, we built Tetris. Just as art imitates life and life imitates ar
 	<div class="col-md-3 column">
 		<h4>Mindy Huang</h4>
 		<p>
-			<a href="http://mindyhuang.com" target="_blank">
-				{% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy_robot.jpg" title="Mindy Huang" class="img-fluid rounded z-depth-1" %}
-			</a>
+            {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy_robot.jpg" title="Mindy Huang" class="img-fluid rounded z-depth-1" %}
 		</p>
 	</div>
 	<div class="col-md-3 column">
 		<h4>Spencer Gibbs</h4>
 		<p>
-			<a href="#" target="_blank">
-				{% include figure.liquid loading="eager" path="assets/img/tetrisbot/spencer.jpg" title="Spencer Gibbs" class="img-fluid rounded z-depth-1" %}
-			</a>
+            {% include figure.liquid loading="eager" path="assets/img/tetrisbot/spencer.jpg" title="Spencer Gibbs" class="img-fluid rounded z-depth-1" %}
 		</p>
 	</div>
 	<div class="col-md-3 column">
 		<h4>Ralph Furmaniak</h4>
 		<p>
-			<a href="#" target="_blank">
-				{% include figure.liquid loading="eager" path="assets/img/tetrisbot/ralph.jpg" title="Ralph Furmaniak" class="img-fluid rounded z-depth-1" %}
-			</a>
+            {% include figure.liquid loading="eager" path="assets/img/tetrisbot/ralph.jpg" title="Ralph Furmaniak" class="img-fluid rounded z-depth-1" %}
 		</p>
 	</div>
 </div>
@@ -67,12 +66,11 @@ We thought it would be interesting to use a robot to turn a normally 2D game int
 ## Simulation
 Before working with the actual robot, we ran everything in simulation using the SCL library. We have 4 tasks. The first one is located at the end-effector to control position. The other three are slightly offset 0.1 away from the first task in the x, y, and z directions respectively. These last three tasks are used to orient the end-effector.
 
-Each of these tasks are controlled with a dynamic controller in task space. We apply a torque T = J' * ( M * (kp*(x_des - x) - kv*dx) + p). We originally wanted to account for centrifugal/coriolis forces as well (essentially recreate the gotoController from the last homework), but according to some documentation in SCL this may cause instabilities. However, we do not anticipate our robot moving so quickly that the centrifugal/coriolis forces will be a large issue.
+Each of these tasks are controlled with a dynamic controller in task space. We apply a torque $$T = J' * ( M * (kp*(x_des - x) - kv*dx) + p)$$. We originally wanted to account for centrifugal/coriolis forces as well (essentially recreate the `gotoController` from the last homework), but according to some documentation in SCL this may cause instabilities. However, we do not anticipate our robot moving so quickly that the centrifugal/coriolis forces will be a large issue.
 
 We then hooked up a python script of a Tetris game to the simulation so that we could watch the robot carry out the actions as we sent them. The result is below.
-<iframe width="560" height="315" src="//www.youtube.com/embed/qj0kO32QrGA" frameborder="0" allowfullscreen></iframe>
 
-You can see all of our code [on GitHub](https://github.com/sgibbs409/tetrisbot).
+<iframe width="560" height="315" src="//www.youtube.com/embed/qj0kO32QrGA" frameborder="0" allowfullscreen></iframe>
 
 The edges of viable workspace were found via trial and error, and we created the gameboard within that space.
 
