@@ -24,30 +24,24 @@ The writing below is copy-pasted from the final report of the project.
 <!-- Gallery -->
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy1.jpg" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy1.jpg" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pickup2.jpg" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/pickup2.jpg" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_pickup3.jpg" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_pickup3.jpg" zoomable=true %}
     </div>
 </div>
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/coding.jpg" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/coding.jpg" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/endeffector2.jpg" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/lab.jpg" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/lab.jpg" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tblock.jpg" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tetrisbot.jpg" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tblock.jpg" zoomable=true %}
     </div>
 </div>
 
@@ -59,19 +53,19 @@ For our project, we built Tetris. Just as art imitates life and life imitates ar
 ## Members
 <div class="row mt-3">
 	<div class="col-md-3 column">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy_robot.jpg" title="Mindy Huang" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy_robot.jpg" title="Mindy Huang" zoomable=true %}
 		<div class="caption">
             Mindy Huang
         </div>
 	</div>
 	<div class="col-md-3 column">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/spencer.jpg" title="Spencer Gibbs" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/spencer.jpg" title="Spencer Gibbs" zoomable=true %}
         <div class="caption">
             Spencer Gibbs
         </div>
 	</div>
 	<div class="col-md-3 column">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/ralph.jpg" title="Ralph Furmaniak" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/ralph.jpg" title="Ralph Furmaniak" zoomable=true %}
         <div class="caption">
             Ralph Furmaniak
         </div>
@@ -118,13 +112,13 @@ A tetromino is a block in the Tetris game (for example, a line block or a square
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tetrimino_plan.png" title="tetromino plan" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/tetrimino_plan.png" title="tetromino plan" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/threeDblocks.jpg" title="3D blocks" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/threeDblocks.jpg" title="3D blocks" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_assembly.jpg" title="block assembly" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/block_assembly.jpg" title="block assembly" class="img-fluid rounded z-depth-1" zoomable=true %}
     </div>
 </div>
 <div class="caption">
