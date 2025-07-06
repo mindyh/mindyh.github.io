@@ -9,6 +9,8 @@ importance: 3
 giscus_comments: true
 toc:
   sidebar: left
+images:
+  spotlight: true
 ---
 
 ## Intro
@@ -37,24 +39,24 @@ The following is copy pasted from the final report of the project.
 For our project, we built Tetris. Just as art imitates life and life imitates art, the toy blocks of our youths beget the classic tile puzzle video game, and now thanks to the PUMA arm you can play Tetris with real life blocks: picked up, moved around, and deposited on a physical game board.
 
 ## Members
-<div class="row">
+<div class="row mt-3">
 	<div class="col-md-3 column">
-		<h4>Mindy Huang</h4>
-		<p>
-            {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy_robot.jpg" title="Mindy Huang" class="img-fluid rounded z-depth-1" %}
-		</p>
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/mindy_robot.jpg" title="Mindy Huang" class="img-fluid rounded z-depth-1" %}
+		<div class="caption">
+            Mindy Huang
+        </div>
 	</div>
 	<div class="col-md-3 column">
-		<h4>Spencer Gibbs</h4>
-		<p>
-            {% include figure.liquid loading="eager" path="assets/img/tetrisbot/spencer.jpg" title="Spencer Gibbs" class="img-fluid rounded z-depth-1" %}
-		</p>
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/spencer.jpg" title="Spencer Gibbs" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Spencer Gibbs
+        </div>
 	</div>
 	<div class="col-md-3 column">
-		<h4>Ralph Furmaniak</h4>
-		<p>
-            {% include figure.liquid loading="eager" path="assets/img/tetrisbot/ralph.jpg" title="Ralph Furmaniak" class="img-fluid rounded z-depth-1" %}
-		</p>
+        {% include figure.liquid loading="eager" path="assets/img/tetrisbot/ralph.jpg" title="Ralph Furmaniak" class="img-fluid rounded z-depth-1" %}
+        <div class="caption">
+            Ralph Furmaniak
+        </div>
 	</div>
 </div>
 
