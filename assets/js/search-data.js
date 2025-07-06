@@ -77,14 +77,14 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-me210-introduction-to-mechatronics",
-          title: 'ME210: Introduction to Mechatronics',
-          description: "A Botcoin Bonanza",
+          section: "News",},{id: "projects-a-botcoin-bonanza",
+          title: 'A Botcoin Bonanza',
+          description: "ME210: Introduction to Mechatronics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2014-03-22-me210/";
-            },},{id: "projects-cs224-experimental-robotics",
-          title: 'CS224: Experimental Robotics',
-          description: "TetrisBot",
+            },},{id: "projects-tetrisbot",
+          title: 'TetrisBot',
+          description: "CS224: Experimental Robotics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2014-09-18-tetrisbot/";
             },},{
