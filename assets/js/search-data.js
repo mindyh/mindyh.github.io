@@ -91,7 +91,7 @@ ninja.data = [{
           title: 'The Wandering Poet',
           description: "Translating the song 诗人的旅途",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2025-07-01-wandering-poet%20copy/";
+              window.location.href = "/projects/2025-07-01-wandering-poet/";
             },},{
         id: 'social-email',
         title: 'email',
