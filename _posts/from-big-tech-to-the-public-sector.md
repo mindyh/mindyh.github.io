@@ -1,8 +1,8 @@
 ---
 layout: post
-title: From Big Tech to the Public Sector
-description: "This is a story of my journey to the public sector."
-date: 2020-12-31
+title: "From Big Tech to the Public Sector"
+description: "How I decided on a career change"
+date: 2021-12-31
 img: assets/img/hiking.jpg
 category: career
 giscus_comments: true
@@ -11,8 +11,7 @@ tags:
   - "product management"
 ---
 
-I come from a family of engineers, and grew up with the belief that technology has the tremendous ability to benefit and transform the world. I officially first taught myself how to program when I was in middle school, starting with building some simple websites and moving on into being the lead programmer for my high school’s FIRST robotics team. When I got to college my side projects started to take on a more social good bend - from building a web app to connect Dreamers with mentors, to using machine learning to explore what an optimal public transit system for Los Angeles might look like.
-
+Between my desire to jump to a social good industry and switching from engineering to product, many people have asked me how I make my career decisions. I thought it would be helpful to write a post about my career journey so far, and how I came to the decision to leave Big Tech for the public sector.
 
 ### I started my career as a software engineer at Google.
 
