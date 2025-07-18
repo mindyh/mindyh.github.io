@@ -30,11 +30,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-a-full-circle-moment",
+        },{id: "post-end-of-an-era",
         
-          title: "A full-circle moment",
+          title: "End of an era",
         
-        description: "Career update",
+        description: "Career update: from CivicTech back to the private sector",
         section: "Posts",
         handler: () => {
           
