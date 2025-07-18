@@ -3,7 +3,7 @@ layout: post
 title: End of an era
 description: "Career update: from CivicTech back to the private sector"
 date: 2025-07-14
-img: assets/img/goodbye.jpg
+thumbnail: assets/img/goodbye.jpg
 category: career
 giscus_comments: true
 tags:

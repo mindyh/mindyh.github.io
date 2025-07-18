@@ -3,7 +3,7 @@ layout: post
 title: "OKRs - what, why, and how"
 description: "Just because it's a commonly used practice at prestigious tech companies (Google, Intel, etc.) doesn't mean it's always the right tool for the situation"
 date: 2020-06-11T07:00:00Z
-img: assets/img/planning.jpg
+thumbnail: assets/img/planning.jpg
 category: career
 giscus_comments: true
 tags:

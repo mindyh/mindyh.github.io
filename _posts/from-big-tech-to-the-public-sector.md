@@ -3,7 +3,7 @@ layout: post
 title: "From Big Tech to the Public Sector"
 description: "How I decided on a career change"
 date: 2021-12-31
-img: 
+thumbnail: assets/img/hiking.jpg
 category: career
 giscus_comments: true
 tags:
