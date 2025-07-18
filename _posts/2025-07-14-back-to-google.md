@@ -1,18 +1,17 @@
 ---
 layout: post
-title: A full-circle moment
-description: Career update
+title: End of an era
+description: "Career update: from CivicTech back to the private sector"
 date: 2025-07-14
 img:
-category: work
+category: career
 giscus_comments: true
 tags:
   - linkedin
-  - career
 ---
 
 
-As multiple people are saying - working in the U.S. federal digital services is...complicated right now. 
+Working in the U.S. federal digital services is...complicated right now. 
 
 And for a variety of those complicated reasons, my GovTech era has come to an end. I write that sentence with coffee in hand, mixed emotions in my heart, looking over an idyllic San Francisco view as the world continues to turn, relentlessly. I've learned so much over the last 4 years of growing teams and pivoting products. And I'm so grateful to the genuinely dedicated, talented, hilarious, and mission-driven colleagues I worked with. Here's to the hundreds of thousands of administrative hours and millions of tax payer dollars we saved! 🥂
 
