@@ -6,7 +6,7 @@ date: 2025-07-14
 thumbnail: assets/img/goodbye.jpg
 category: career
 giscus_comments: true
-tags:
+tags: 
   - linkedin
   - civictech
 ---

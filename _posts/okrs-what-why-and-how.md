@@ -7,8 +7,8 @@ thumbnail: assets/img/planning.jpg
 category: career
 giscus_comments: true
 tags:
-  - "product management"
-  - "essay"
+  - product
+  - essay
 ---
 
 # What are OKRs?

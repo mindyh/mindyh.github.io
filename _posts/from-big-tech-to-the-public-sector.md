@@ -8,7 +8,7 @@ category: career
 giscus_comments: true
 tags:
   - civictech
-  - "product management"
+  - product
 ---
 
 Between my desire to jump to a social good industry and switching from engineering to product, many people have asked me how I make my career decisions. I thought it would be helpful to write a post about my career journey so far, and how I came to the decision to leave Big Tech for the public sector.
