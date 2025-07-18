@@ -2,7 +2,7 @@
 layout: post
 title: Goodbye Google
 description: "In February 2022, I left Google for a career in CivicTech. Here is a snippet of my goodbye email, with a list of social good resources."
-date: 2022-3-21
+date: 2022-03-21
 thumbnail: assets/img/gmail.jpg
 category: career
 giscus_comments: true
