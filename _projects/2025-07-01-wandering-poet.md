@@ -11,11 +11,14 @@ giscus_comments: true
 
 # Intro
 
-A few years ago I watched season 1 of the Chinese singing show 我们的歌 (Our Songs). During the show, I fell in love with a particular performance and decided to figure out the songs and their lyrics. My Chinese language fluency is around HSK6, but less common phrases, like technical language or poetry, go over my head if I don't concentrate. I took this on as a good project to practice and expand my vocabulary.
+Have you ever gotten a years-long earworm? For me, it started a few years ago when I watched season 1 of the Chinese singing show 我们的歌 (Our Songs). One episode had a particular song 诗人的旅途 (lit. "The Poet's Journey") that I didn't understand very much at all, but the melody was absolutely gorgeous. 
 
-Upon research, I discovered that the song 诗人的旅途 (lit. "The Poet's Journey") stemmed from a Chinese musical called 蝶 (Butterfly). It is an adaptation of the Chinese folktale of the [Butterfly Lovers](https://en.wikipedia.org/wiki/Butterfly_Lovers), which is a tale of ill-fated lovers and is the equivalent to _Romeo and Juliet_ in the Western canon.
+Fast forward to today, and I am stuck in bed for the third day in a row recovering from a particularly nasty illness. Surrounded by tissues and creature comforts, I was scrolling YouTube for a good distraction when I stumbled upon same episode. So 诗人的旅途 has now been playing on repeat for a good hour 😂 And since I've got some free time and not a lot of energy, I embarked on a journey to figure out what the heck this song is actually saying! My Chinese language fluency is around HSK6, but less common phrases, like technical language or poetry, go over my head if I don't concentrate. 
 
-After really listening to it, I found the lyricism so beautiful that I was compelled to try my hand at translating the song into English. I wanted to share it with all my non-Chinese speaking friends out there — I hope this gives you a hint of how lovely the poetry is!
+Armed with Gemini and Google Translate, my research reveals that 诗人的旅途 ("The Poet's Journey") stemmed from a Chinese musical called 蝶 (Butterfly). It is an adaptation of the Chinese folktale of the [Butterfly Lovers](https://en.wikipedia.org/wiki/Butterfly_Lovers), which is a tale of ill-fated lovers and is the equivalent to _Romeo and Juliet_ in the Western canon.
+
+Maybe it's because the clock just struck 2am and I'm a bit loopy, but I was feeling so overwhelmed by the beauty of the lyrics that I decided the proper thing to do was to translate the song into English. Right now. What is sleep anyways???
+
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
@@ -57,6 +60,13 @@ After doing a literal translation, I decided to push it further to match the cad
 | On those roads                                   | If you walk those roads                     |                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Perhaps they’ll remember me.                     | Maybe they would remember me.“              | Here, I aimed to keep the vagueness on whether “they” referred to people or the roads themselves.                                                                                                                                                                                                                                                                                                                                |
 | Liang Shan Bo                                    | LSB                                         | My face when I realized the initials would actually work here 😬 I guess it’s similar to how Aaron Burr sings his signature in _Your Obedient Servant_\! Remember, it’s a musical, singing your own initials isn’t weird at all\! 😆                                                                                                                                                                                                  |
+
+# Waldeinsamkeit
+
+The German word _waldeinsamkeit_ roughly translates to "the sublime or spiritual one feeling one has while being alone in the woods." To me, this song feels like that concept in music. 
+
+There's another term _Stendhal syndrome_, also known as _Florence syndrome_, which is a psychosomatic condition where individuals experience rapid heartbeat, dizziness, confusion, and even fainting when exposed to objects or artworks of great beauty. Maybe that's what struck me, or maybe it's that the time is now 4 am 🙃
+
 
 # Reflections
 
