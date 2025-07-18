@@ -3,13 +3,17 @@ layout: post
 title: End of an era
 description: "Career update: from CivicTech back to the private sector"
 date: 2025-07-14
-img:
+img: assets/img/goodbye.jpg
 category: career
 giscus_comments: true
 tags:
   - linkedin
+  - civictech
 ---
 
+This is a post I made on [LinkedIn](https://www.linkedin.com/in/mindyhng/).
+
+***
 
 Working in the U.S. federal digital services is...complicated right now. 
 
