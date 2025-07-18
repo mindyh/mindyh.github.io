@@ -30,7 +30,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/books/";
           },
-        },{id: "post-on-math",
+        },{id: "post-a-full-circle-moment",
+        
+          title: "A full-circle moment",
+        
+        description: "Career update",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/back-to-google/";
+          
+        },
+      },{id: "post-on-math",
         
           title: "On Math",
         
@@ -41,12 +52,7 @@ ninja.data = [{
             window.location.href = "/blog/2014/on-math/";
           
         },
-      },{id: "books-blink",
-          title: 'Blink',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/blink/";
-            },},{id: "books-man-39-s-search-for-meaning",
+      },{id: "books-man-39-s-search-for-meaning",
           title: 'Man&amp;#39;s Search for Meaning',
           description: "",
           section: "Books",handler: () => {
@@ -61,11 +67,6 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/rich_girl_nation/";
-            },},{id: "books-thinking-fast-and-slow",
-          title: 'Thinking, Fast and Slow',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/thinking_fast_and_slow/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
