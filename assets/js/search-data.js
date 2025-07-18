@@ -41,6 +41,39 @@ ninja.data = [{
             window.location.href = "/blog/2025/back-to-google/";
           
         },
+      },{id: "post-goodbye-google",
+        
+          title: "Goodbye Google",
+        
+        description: "In February 2022, I left Google for a career in CivicTech. Here is a snippet of my goodbye email, with a list of social good resources.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2022/goodbye-google/";
+          
+        },
+      },{id: "post-from-big-tech-to-the-public-sector",
+        
+          title: "From Big Tech to the Public Sector",
+        
+        description: "How I decided on a career change",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/big-tech-to-public-sector/";
+          
+        },
+      },{id: "post-okrs-what-why-and-how",
+        
+          title: "OKRs - what, why, and how",
+        
+        description: "Just because it&#39;s commonly used at prestigious tech companies doesn&#39;t mean it&#39;s always the right tool for the situation",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/okrs-what-why-and-how/";
+          
+        },
       },{id: "post-on-math",
         
           title: "On Math",
