@@ -1,7 +1,7 @@
 ---
 layout: post
 title: From Big Tech to the Public Sector
-description: How I decided on a career change
+description: How I decided on a major career change.
 date: 2021-12-31
 thumbnail: assets/img/hiking.jpg
 category: career
