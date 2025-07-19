@@ -56,7 +56,7 @@ ninja.data = [{
         
           title: "From Big Tech to the Public Sector",
         
-        description: "How I decided on a career change",
+        description: "How I decided on a major career change.",
         section: "Posts",
         handler: () => {
           
@@ -65,18 +65,18 @@ ninja.data = [{
         },
       },{id: "post-okrs-what-why-and-how",
         
-          title: "OKRs - what, why, and how",
+          title: "OKRs: what, why, and how",
         
-        description: "Just because it&#39;s commonly used at prestigious tech companies doesn&#39;t mean it&#39;s always the right tool for the situation",
+        description: "Just because it&#39;s commonly used at prestigious tech companies doesn&#39;t mean it&#39;s always the right tool for the situation.",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2020/okrs-what-why-and-how/";
           
         },
-      },{id: "post-okrs-what-why-and-how",
+      },{id: "post-interviewing-as-a-pm-vs-as-a-swe",
         
-          title: "OKRs - what, why, and how",
+          title: "Interviewing as a PM vs. as a SWE",
         
         description: "PM interview questions are quite different from technical interviews. I wanted to share some tips for anyone else going through the same struggle.",
         section: "Posts",
