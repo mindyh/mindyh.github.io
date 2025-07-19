@@ -4,7 +4,7 @@ title: Interviewing as a PM vs. as a SWE
 description: PM interview questions are quite different from technical interviews. I wanted to share some tips for anyone else going through the same struggle.
 date: 2020-03-02
 thumbnail: assets/img/interview.jpg
-category: career
+category: essay
 giscus_comments: true
 tags:
   - product

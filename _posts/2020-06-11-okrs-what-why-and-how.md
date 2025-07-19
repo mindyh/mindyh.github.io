@@ -4,11 +4,10 @@ title: "OKRs: what, why, and how"
 description: Just because it's commonly used at prestigious tech companies doesn't mean it's always the right tool for the situation.
 date: 2020-06-11
 thumbnail: assets/img/planning.jpg
-category: career
+category: essay
 giscus_comments: true
 tags:
   - product
-  - essay
 ---
 
 # What are OKRs?
