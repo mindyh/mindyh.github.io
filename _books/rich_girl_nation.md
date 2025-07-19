@@ -11,7 +11,7 @@ started: 2025-06-28
 finished: 2025-07-05
 stars: 5
 # goodreads_review: 6318556633
-status: In Progress
+status: reading
 ---
 
 _Coming soon_
