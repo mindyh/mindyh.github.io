@@ -74,6 +74,17 @@ ninja.data = [{
             window.location.href = "/blog/2020/okrs-what-why-and-how/";
           
         },
+      },{id: "post-okrs-what-why-and-how",
+        
+          title: "OKRs - what, why, and how",
+        
+        description: "PM interview questions are quite different from technical interviews. I wanted to share some tips for anyone else going through the same struggle.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2020/interviewing-as-a-pm-vs-swe/";
+          
+        },
       },{id: "post-on-math",
         
           title: "On Math",
