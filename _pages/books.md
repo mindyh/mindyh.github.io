@@ -7,9 +7,8 @@ nav_order: 3
 collection: books
 ---
 
-> It is what you read when you don't have to that determines what you will be when you can't help it.
->
-> Oscar Wilde
+> It is what you read when you don't have to that determines what you will be when you can't help it. 
+> ~ Oscar Wilde
 
 Truthfully, I don't leave much time for reading. That means if I do finish a book, it was well worth my time and thus worth analyzing the lessons I learned from it.
 
