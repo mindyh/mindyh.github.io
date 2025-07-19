@@ -63,6 +63,17 @@ ninja.data = [{
             window.location.href = "/blog/2021/big-tech-to-public-sector/";
           
         },
+      },{id: "post-the-overton-window-of-a-product",
+        
+          title: "The Overton Window of a Product",
+        
+        description: "The Overton window, aka the window of discourse, is the range of ideas acceptable to mainstream thought. Its origin is in politics, but I&#39;d argue this concept also applies to product management.",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2021/product-management-and-the-overton-window/";
+          
+        },
       },{id: "post-okrs-what-why-and-how",
         
           title: "OKRs: what, why, and how",
