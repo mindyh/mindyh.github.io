@@ -133,7 +133,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-a-botcoin-bonanza",
+          section: "News",},{id: "projects-my-hapkit-journey",
+          title: 'My Hapkit Journey',
+          description: "Taking the Stanford course: Introduction to Haptics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2013-11-14-my-hapkit-journey-assembly/";
+            },},{id: "projects-a-botcoin-bonanza",
           title: 'A Botcoin Bonanza',
           description: "ME210: Introduction to Mechatronics",
           section: "Projects",handler: () => {
