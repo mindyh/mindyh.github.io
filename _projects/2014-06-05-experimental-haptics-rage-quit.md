@@ -30,7 +30,5 @@ All in all, this was a really fun (albeit frustrating and time consuming) class.
 
 # Abstract
 
-Read the <a class="nav-link" href="assets/pdf/ragequit_final.pdf" target="_blank" rel="noopener noreferrer">
-    <span class="sr-only">abstract</span>
-</a>, authored by me and classmate Ben-han Sung.
+Read the [abstract](/assets/pdf/ragequit_final.pdf), authored by me and classmate Ben-han Sung.
 
