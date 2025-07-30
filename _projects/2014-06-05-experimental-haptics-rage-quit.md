@@ -15,9 +15,19 @@ giscus_comments: true
 
 I really enjoyed the [Introduction to Haptics](/projects/2013-11-14-my-hapkit-journey-assembly/) course last year, so this quarter I decided to take CS227: Experimental Haptics. It was led by the grad student who invented the [Novint Falcon](http://www.novint.com/index.php/novintfalcon "novint falcon") -- low-end, 3-DOF haptic device. This was also the device we used for all our homework assignments and projects.
 
-{% include figure.liquid loading="eager" path="assets/img/experimental_haptics/novintfalcon.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
-<div class="caption">
-  The Novint Falcon
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/experimental_haptics/novintfalcon.jpg" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+      The Novint Falcon
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+      {% include figure.liquid loading="eager" path="assets/img/experimental_haptics/ragequit.png" class="img-fluid rounded z-depth-1" zoomable=true %}
+    </div>
+    <div class="caption">
+      Our project
+    </div>
 </div>
 
 The class took us through the theory as well as the practice of programming haptic devices &#8211; from workspaces to fast collision detection to modelling haptic feedback. My partner and I decided to base our final project on the theme Rage Quit, after a particularly frustrating debugging session on one of the homework assignments.
