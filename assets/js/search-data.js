@@ -135,22 +135,27 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-my-hapkit-journey",
           title: 'My Hapkit Journey',
-          description: "Taking the Stanford course: Introduction to Haptics",
+          description: "(Nov 2013) Course: Introduction to Haptics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2013-11-14-my-hapkit-journey-assembly/";
             },},{id: "projects-a-botcoin-bonanza",
           title: 'A Botcoin Bonanza',
-          description: "ME210: Introduction to Mechatronics",
+          description: "(March 2014) ME210: Introduction to Mechatronics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2014-03-22-me210/";
+            },},{id: "projects-rage-quit",
+          title: 'Rage Quit',
+          description: "(June 2014) CS227: Experimental Haptics",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/2014-06-05-experimental-haptics-rage-quit/";
             },},{id: "projects-tetrisbot",
           title: 'TetrisBot',
-          description: "CS224: Experimental Robotics",
+          description: "(Sep 2014) CS224: Experimental Robotics",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2014-09-18-tetrisbot/";
             },},{id: "projects-the-wandering-poet",
           title: 'The Wandering Poet',
-          description: "Translating the song 诗人的旅途",
+          description: "(July 2025) Translating the song 诗人的旅途",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2025-07-01-wandering-poet/";
             },},{
