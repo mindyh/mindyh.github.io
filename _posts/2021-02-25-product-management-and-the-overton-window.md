@@ -6,6 +6,8 @@ date: 2021-02-25
 thumbnail: assets/img/window.jpg
 category: essay
 giscus_comments: true
+toc:
+  sidebar: left
 tags: 
   - product
 ---
