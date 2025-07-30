@@ -1,14 +1,13 @@
 ---
 title: 'My Hapkit Journey'
 date: 2013-11-14T19:42:10+00:00
-author: Mindy Huang
 layout: page
-description: "Taking the Stanford course: Introduction to Haptics"
+description: "(Nov 2013) Course: Introduction to Haptics"
 img: assets/img/hapkit/hapkit.jpg
 importance: 3
 category: school
 toc:
-  - sidebar: left
+  sidebar: left
 giscus_comments: true
 ---
 

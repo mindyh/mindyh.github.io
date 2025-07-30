@@ -1,7 +1,7 @@
 ---
 layout: page
 title: TetrisBot
-description: "CS224: Experimental Robotics"
+description: "(Sep 2014) CS224: Experimental Robotics"
 date: 2014-09-18
 category: school
 img: assets/img/tetrisbot/pickup1.jpg

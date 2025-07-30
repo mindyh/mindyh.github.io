@@ -2,7 +2,7 @@
 layout: page
 title: "The Wandering Poet"
 date: 2025-07-01
-description: "Translating the song 诗人的旅途"
+description: "(July 2025) Translating the song 诗人的旅途"
 img: assets/img/wandering_poet/poet.png
 importance: 4
 category: fun
