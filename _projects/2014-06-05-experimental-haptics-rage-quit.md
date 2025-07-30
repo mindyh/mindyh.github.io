@@ -1,7 +1,7 @@
 ---
 title: 'Rage Quit'
 date: 2014-06-05T23:55:17+00:00
-layout: post
+layout: page
 description: "(June 2014) CS227: Experimental Haptics"
 img: 
 importance: 2
