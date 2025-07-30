@@ -13,9 +13,9 @@ giscus_comments: true
 
 # Intro
 
-Have you ever gotten a years-long earworm? For me, it started a few years ago when I watched season 1 of the Chinese singing show 我们的歌 (Our Songs). One episode had a particular song 诗人的旅途 (lit. "The Poet's Journey") that I didn't understand very much at all, but the melody was absolutely gorgeous. 
+Have you ever gotten a years-long earworm? For me, it started in 2020 when I watched season 1 of the Chinese singing show 我们的歌 (Our Songs). One episode had a particular song 诗人的旅途 (lit. "The Poet's Journey") that I didn't understand very much at all, but the melody was absolutely gorgeous. 
 
-Fast forward to today, and I am stuck in bed for the third day in a row recovering from a particularly nasty illness. Surrounded by tissues and creature comforts, I was scrolling YouTube for a good distraction when I stumbled upon same episode. So 诗人的旅途 has now been playing on repeat for a good hour 😂 And since I've got some free time and not a lot of energy, I embarked on a journey to figure out what the heck this song is actually saying! My Chinese language fluency is around HSK6, but less common phrases, like technical language or poetry, go over my head if I don't concentrate. 
+Fast forward to today, and I am stuck in bed for the third day in a row recovering from a particularly nasty illness. Surrounded by tissues and creature comforts, I was scrolling YouTube for a good distraction when I stumbled upon that same episode. So 诗人的旅途 has now been playing on repeat for a good hour 😂 And since I've got some free time and not a lot of energy, I embarked on a journey to figure out what the heck this song is actually saying! My Chinese language fluency is around HSK6, but less common phrases, like technical language or poetry, go over my head if I don't concentrate. 
 
 Armed with Gemini and Google Translate, my research reveals that 诗人的旅途 ("The Poet's Journey") stemmed from a Chinese musical called 蝶 (Butterfly). It is an adaptation of the Chinese folktale of the [Butterfly Lovers](https://en.wikipedia.org/wiki/Butterfly_Lovers), which is a tale of ill-fated lovers and is the equivalent to _Romeo and Juliet_ in the Western canon.
 
