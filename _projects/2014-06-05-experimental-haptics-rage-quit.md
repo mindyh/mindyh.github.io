@@ -3,7 +3,7 @@ title: 'Rage Quit'
 date: 2014-06-05T23:55:17+00:00
 layout: page
 description: "(June 2014) CS227: Experimental Haptics"
-img: 
+img: assets/img/experimental_haptics/ragequit.png
 importance: 2
 category: school
 toc:
